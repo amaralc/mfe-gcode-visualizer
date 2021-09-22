@@ -1,0 +1,9 @@
+[submodule "packages/shell"]
+	path = packages/shell
+	url = https://github.com/amaralc/mfe-gcode-visualizer-shell
+[submodule "packages/remote1"]
+	path = packages/remote1
+	url = https://github.com/amaralc/mfe-gcode-visualizer-remote1
+[submodule "packages/remote2"]
+	path = packages/remote2
+	url = https://github.com/amaralc/mfe-gcode-visualizer-remote2
